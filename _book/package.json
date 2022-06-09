@@ -1,0 +1,24 @@
+{
+  "name": "franca-digital-book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "honkit build",
+    "serve": "honkit serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manamachado/franca-digital-book.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manamachado/franca-digital-book/issues"
+  },
+  "homepage": "https://github.com/manamachado/franca-digital-book#readme",
+  "devDependencies": {
+    "honkit": "^3.7.3"
+  }
+}
