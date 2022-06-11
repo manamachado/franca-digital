@@ -1,3 +1,5 @@
+# Exemplo de um arquivo HTML
+
 ```html
 <!DOCTYPE html>
 <html lang="pt-br">

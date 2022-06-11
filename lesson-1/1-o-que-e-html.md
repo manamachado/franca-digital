@@ -2,7 +2,7 @@
 
 HTML é o acrônimo de **H**iper**T**ext **M**arkup **L**anguage, que traduzido para o português fica: Linguagem de Marcação de Hipertexto.
 
-O HTML é o componente básico da web, ele permite inserir o conteúdo e estabelecer a estrutura básica de um website. Portanto, ele serve para dar significado e organizar as informações de uma página na web. Sem isso, o navegador não saberia exibir textos como elementos ou carregar imagens e outros conteúdos.
+O HTML é o componente básico da web, ele permite inserir o conteúdo e estabelecer a estrutura básica de um website, ele serve para dar significado e organizar as informações de uma página na web. Sem isso, o navegador não saberia exibir textos como elementos ou carregar imagens e outros conteúdos.
 
 Os hipertextos são conjuntos de elementos conectados. Esses podem ser palavras, imagens, vídeos, documento, etc. Quando conectados, formam uma rede de informações que permite a comunicação de dados, organizando conhecimentos e guardando informações.
 
