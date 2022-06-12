@@ -2,7 +2,7 @@
 
 Assim como no HTML, os comentários são trechos que servem para descrever o que está acontecendo no código.
 
-Comentários não são executados pelo navegador, apenas exibidos.
+Comentários não são executados, apenas exibidos no código fonte.
 
 ## Exemplos
 
