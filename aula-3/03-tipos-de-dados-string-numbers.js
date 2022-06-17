@@ -1,10 +1,6 @@
 // TRABALHANDO COM STRINGS E NUMBERS
 
-// Agora é um bom momento pra fazer algumas anotações
-// Toda vez que falar que vamos trabalhar com "string", você já pode relacionar com texto
-// Toda vez que eu falar que vamos trabalhar com "number", você já relaciona com número
-// STRINGS = "Nome", 'Nome', `Nome`, "10" (sempre usamos aspas simples, duplas, crase)
-// NUMBER = 10, 0.4, 10.10, 0.00001 (não usamos aspas)
+
 
 let salariodoAmigo = 1000
 let meuSalario = "2000"
