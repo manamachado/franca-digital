@@ -15,3 +15,8 @@
   * [Variáveis](aula-2/4-variaveis.md)
   * [Comentários no Javascript](aula-2/5-comentarios-no-js.md)
   * [Quiz](aula-2/6-quiz.md)
+* [Aula 3](aula-3/README.md)
+  * [Tipos de Dados](aula-3/1-tipos-de-dados.md)
+  * [Trabalhando com Strings](aula-3/2-trabalhando-com-strings.md)
+  * [Trabalhando com Numbers](aula-3/3-trabalhando-com-numbers.md)
+  * [Quiz](aula-3/4-quiz.md)

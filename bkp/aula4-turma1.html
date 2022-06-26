@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 4 - Turma 1</title>
+</head>
+<body>
+    <script>
+        // const nome = "Maná"
+        // let carro = "Gol"
+        // var veia = "Não se usa mais" // lelelelelle
+
+        // const minhaString = "Aqui vai um texto"
+        // const aspasSimples = 'Aqui vai outro texto'
+
+        // console.log(`O meu nome é ${nome}`) // interpolação
+
+        //alert('Ola mundo!') // função nativa
+        // const nome = prompt('Qual é o seu nome?')
+        // console.log(nome) 
+
+        // let salariodoAmigo = 1000
+        // let meuSalario = Number("1000")
+        // console.log(typeof salariodoAmigo)
+        // console.log(typeof meuSalario)
+        // console.log(salariodoAmigo + meuSalario)
+
+        // const verdadeiro = true
+        // const falso = false
+
+        // >= maior ou igual
+        // <= menor ou igual
+        // > maior que
+        // < menor que
+        // == igual a
+        
+        // if = SE
+        // else = SENÃO
+        // else if = SENÃO SE
+        // const idade = 18
+        // if (idade >= 18) {
+        //     console.log(`Você tem ${idade} anos e já pode tirar a CNH`)
+        // } else {
+        //     console.log(`Você tem ${idade} anos e ainda não pode tirar CNH`)
+        // }
+
+        // faça um programa que receba a nota dos 4 bimestres
+        // calcule a média e no final, informe se o aluno foi aprovado
+        // ou reprovado
+        // mais que 6 = aprovado
+        // 6 ou menos = reprovado
+        // todas as notas somadas / dividida pela qtde de notas
+        
+      // usando alert e prompt
+      // preciso saber o nome do aluno
+      const nome = prompt('Qual é o seu nome?')
+      const nota1 = Number(prompt('Qual é a nota do seu primeiro bimestre?'))
+      const nota2 = Number(prompt('Qual é a nota do seu segundo bimestre?'))
+      const nota3 = Number(prompt('Qual é a nota do seu terceiro bimestre?'))
+      const nota4 = Number(prompt('Qual é a nota do seu quarta bimestre?'))
+      const media = (nota1 + nota2 + nota3 + nota4) / 4
+      
+      if (media > 6) {
+        alert(`${nome}, sua média final foi ${media} e vc està aprovado!`)
+      } else {
+        alert(`${nome}, sua média final foi ${media} e vc està reprovado!`)
+      }
+    </script>
+</body>
+</html>

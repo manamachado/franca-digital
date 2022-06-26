@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lampada</title>
+</head>
+<body>
+  <img src="https://i.stack.imgur.com/ybxlO.jpg" id="lampadinha" >
+  <br>
+  <button onclick="acenderLampada()">Acender</button>
+  <button onclick="apagarLampada()">Apagar</button>
+  <button onclick="quebrarLampada()">Quebrar</button>
+
+  <script>
+    const lampada = document.getElementById('lampadinha')
+    
+    function acenderLampada() {
+      return lampada.setAttribute('src', 'https://i.stack.imgur.com/ybxlO.jpg')
+    }
+
+    function apagarLampada() {
+      return lampada.setAttribute('src', 'https://i.stack.imgur.com/b983w.jpg')
+    }
+
+    function quebrarLampada() {
+      return lampada.setAttribute('src', 'https://i.stack.imgur.com/MRjsF.jpg')
+    }
+  </script>
+</body>
+</html>
