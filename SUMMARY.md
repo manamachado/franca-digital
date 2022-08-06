@@ -20,3 +20,7 @@
   * [Trabalhando com Strings](aula-3/2-trabalhando-com-strings.md)
   * [Trabalhando com Numbers](aula-3/3-trabalhando-com-numbers.md)
   * [Quiz](aula-3/4-quiz.md)
+* [Aula 4](aula-4/README.md)
+  * [Operadores](aula-4/1-operadores.md)
+  * [Estruturas condicionais](aula-4/2-estruturas-condicionais.md)
+  * [Exercício resolvido](aula-4/3-exercicio-resolvido.md)
