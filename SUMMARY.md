@@ -24,3 +24,6 @@
   * [Operadores](aula-4/1-operadores.md)
   * [Estruturas condicionais](aula-4/2-estruturas-condicionais.md)
   * [Exercício resolvido](aula-4/3-exercicio-resolvido.md)
+* [Aula 5](aula-5/README.md)
+  * [Funções](aula-5/1-funcoes.md)
+  * [Exercício resolvido](aula-5/2-exercicio-resolvido.md)
